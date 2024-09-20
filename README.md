@@ -26,5 +26,5 @@ As part of the Mobile Technologies course, we proposed an app called **POLIMI Sp
 ## Presentation
 The concept and business model were presented in a 10-minute pitch, outlining the app’s functionalities, target audience, and potential revenue streams.
 
-You can download and view the presentation below:
-- [Download the Presentation](./Mobile%20Technologies%20–%20Group%20Project.pptx)
+You can view the full presentation below:
+- [Presentation](./POLIMI-Sports-App.pdf)
